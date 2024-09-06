@@ -1,0 +1,6 @@
+ref:
+https://www.youtube.com/watch?v=WTchW0LdWL0
+starter code:
+https://github.com/coding-in-public/tailwind-darkmode.git
+Another ref: switch html data-theme
+https://jsfiddle.net/gc9m8pea/2/
